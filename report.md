@@ -5,14 +5,13 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
-* [Не активируется лицензия приложения при вводе правильного ключа #1](https://github.com/SahNau/KeyValidator/issues/1)
-* [Не активируется лицензия приложения при вводе правильного ключа #2](https://github.com/SahNau/KeyValidator/issues/2)
-* [Активируется лицензия приложения при вводе ключа, который не должен работать #3](https://github.com/SahNau/KeyValidator/issues/3)
+* [Не принимаются ключи в приложении при вводе правильных данных #1](https://github.com/SahNau/KeyValidator/issues/1)
+* [Принимается ключ в приложении при вводе неправильных данных #3](https://github.com/SahNau/KeyValidator/issues/3)
 
 ## Описание процесса тестирования
  В процессе тестирования использовались следующие артефакты:
 
-*  [Инструкция по установке OpenJDK11](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md)
+* [Инструкция по установке OpenJDK11](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md)
 * [Руководство использования KeyValidator](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
 * [Домашнее задание к занятию «1.1. Введение в Java: JDK, JRE, JVM, IntelliJ IDEA»](https://github.com/netology-code/javaqa-homeworks/tree/master/intro)
 
